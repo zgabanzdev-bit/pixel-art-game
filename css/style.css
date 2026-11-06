@@ -1,7 +1,17 @@
-html, body { margin: 0; height: 100%; background: #111; overflow: hidden; }
-body { display: flex; align-items: center; justify-content: center; }
+html,
+body {
+  margin: 0;
+  height: 100%;
+  background: #111;
+  overflow: hidden;
+}
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 canvas {
   background: #000;
-  image-rendering: pixelated;      /* чёткие пиксели при масштабировании */
+  image-rendering: pixelated; /* чёткие пиксели при масштабировании */
   image-rendering: crisp-edges;
 }
