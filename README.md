@@ -4,6 +4,8 @@
 
 **[🔗 Live Demo](https://pixel-art-game-nine.vercel.app)**
 
+![Dashboard](.github/assets/preview.png)
+
 ## Запуск
 
 Откройте `index.html` в браузере (двойным кликом). Сервер не нужен.
