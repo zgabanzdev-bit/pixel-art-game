@@ -2,7 +2,7 @@
 
 Компактный 2D pixel-art платформер на HTML5 Canvas (без сборщиков и зависимостей).
 
-**[🔗 Live Demo](https://pixel-art-game-nine.vercel.app)**
+**[🔗 Live Demo](https://zgabanzdev-bit.github.io/pixel-art-game/)**
 
 ![Dashboard](.github/assets/preview.png)
 
